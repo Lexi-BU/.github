@@ -19,8 +19,8 @@
 
 Please let me know if you have any trouble in using the program.
 
-![Science Front](https://drive.google.com/uc?export=view&id=1VFafFmAaAu8Mw0J6nU7ESeE7bcFPSg1u)
+![Science Front](https://github.com/Lexi-BU/lxi_gui/blob/stable/git_figures/science.png)
 ### <center>The Science histograms</center>
 
-![Housekeeping Front](https://drive.google.com/uc?export=view&id=1mz2tq4QXq6cpneEWdwmCd_uoXQ4k9xOH)
+![Housekeeping Front](https://github.com/Lexi-BU/lxi_gui/blob/stable/git_figures/housekeeping.png)
 ### <center>The Housekeeping Time series</center>
