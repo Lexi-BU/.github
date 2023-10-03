@@ -61,8 +61,8 @@
 
 Please let me know if you have any trouble in using the program.
 
-![Science Front](https://github.com/Lexi-BU/lxi_gui/blob/stable/git_figures/science.png)
+![Science Front](https://raw.githubusercontent.com/Lexi-BU/Lexi-BU.github.io/main/images/science.png)
 ### <center>The Science histograms</center>
 
-![Housekeeping Front](https://github.com/Lexi-BU/lxi_gui/blob/stable/git_figures/housekeeping.png)
+![Housekeeping Front](https://raw.githubusercontent.com/Lexi-BU/Lexi-BU.github.io/main/images/housekeeping.png)
 ### <center>The Housekeeping Time series</center>
